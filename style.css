@@ -1,0 +1,22 @@
+/*
+Theme Name: minnow THEME
+Theme URI: minnowproject.com
+Author: the minnow PROJECT
+Author URI: http://minnowproject.com/
+Description: Starter Theme
+Version: 0.1
+License: GNU General Public License v2.0
+License URI: http://www.minnowproject.org/licenses/gpl-2.0 
+Tags: dark, light, white, black, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: minnowproject
+*/
+
+/* theme-check required */
+.wp-caption{}
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+.alignright{}
+.alignleft{}
+.aligncenter{}
