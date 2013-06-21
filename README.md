@@ -1,0 +1,4 @@
+theme
+=====
+
+default wordpress theme
