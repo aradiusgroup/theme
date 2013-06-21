@@ -16,3 +16,4 @@
 </head>
 
 <body <?php body_class(); ?>>
+<!--[if lt IE 9]><p class="chromeframe">You are using an outdated browser. Upgrade your browser today or install Google Chrome Frame to better experience this site.</p><![endif]-->
